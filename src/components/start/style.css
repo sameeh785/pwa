@@ -1,0 +1,28 @@
+body{
+  margin :0px
+}
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.quizApp {
+  text-align: center;
+  color: black;
+}
+.main2 {
+  width: 30%;
+  height: 40%;
+  background-color: azure !important;
+}
+
+.btn-1 {
+  display: inline-block;
+  margin-left: 24.5%;
+  margin-top: 40px;
+}
